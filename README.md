@@ -1,6 +1,6 @@
 ## Hey, I’m Matt 👋
 
-I run [Close Quarters Consulting](https://closequartersconsulting.com), where I help e-commerce businesses create operational clarity and real ROI by tightening workflows and automating the repetitive work.
+Founder of [Close Quarters Consulting](https://closequartersconsulting.com), where I help e-commerce businesses create operational clarity and real ROI by tightening workflows and automating the repetitive work.
 
 ### What I’m focused on 🎯
 - 🧭 **Ops clarity:** turning “tribal knowledge” into documented, repeatable systems  
