@@ -13,8 +13,8 @@ Practical utilities I build to support real client work—scripts, workflow help
 
 ### Tools I use ⚙️
 - 🔁 **Automation:** n8n, Airtable, Notion, Zapier/Make, Google Workspace  
-- 🧠 **AI:** Claude / ChatGPT, prompt systems, knowledge bases, structured outputs  
-- 🛒 **Web:** Shopify (Liquid), WordPress, Python + JavaScript  
+- 🧠 **AI:** Claude/ChatGPT/Gemini/OpenRouter, prompt systems, knowledge bases, structured outputs  
+- 🛒 **Web:** Shopify, WordPress, Python + JavaScript  
 
 ### Contact 📬
 - 🌐 [closequartersconsulting.com](https://closequartersconsulting.com)  
