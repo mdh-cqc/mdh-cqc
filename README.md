@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hey, I’m Matt 👋
 
-<!--
-**mdh-cqc/mdh-cqc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I run [Close Quarters Consulting](https://closequartersconsulting.com), where I help e-commerce businesses create operational clarity and real ROI by tightening workflows and automating the repetitive work.
 
-Here are some ideas to get you started:
+### What I’m focused on 🎯
+- 🧭 **Ops clarity:** turning “tribal knowledge” into documented, repeatable systems  
+- 🏗️ **Leverage without complexity:** my specialty is small teams that need leverage, not complexity  
+- 🤖 **Automation with ROI:** customer service workflows, reporting, fulfillment handoffs, and internal ops  
+- 📈 **Marketing that compounds:** SEO + paid search built on a fast, conversion-friendly site foundation  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What you’ll find in my GitHub 🧰
+Practical utilities I build to support real client work—scripts, workflow helpers, and templates that make systems easier to run, maintain, and scale.
+
+### Tools I use ⚙️
+- 🔁 **Automation:** n8n, Airtable, Notion, Zapier/Make, Google Workspace  
+- 🧠 **AI:** Claude / ChatGPT, prompt systems, knowledge bases, structured outputs  
+- 🛒 **Web:** Shopify (Liquid), WordPress, Python + JavaScript  
+
+### Contact 📬
+- 🌐 [closequartersconsulting.com](https://closequartersconsulting.com)  
+- ✉️ matt@closequartersconsulting.com
